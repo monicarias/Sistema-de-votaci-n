@@ -1,6 +1,12 @@
-![Banner](./images/banner.png)        
+<h1 align="center">Sitema de votación en JavaScript</h1>
 
-# PROYECTO 2: Sistema de Votación en JavaScript
+<p align="center">Una aplicación para comenzar prácticas en JavaScript</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
 
 ## **ÍNDICE**
 
