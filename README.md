@@ -44,12 +44,11 @@ El objetivo principal de este proyecto es construir un programa en JavaScript qu
 
 ## 3. Demo
 
-Puedes entrar a ver el demo en este vínculo: [LINK](https://github.com/UDDBootcamp/7M_FULLSTACK_M2_PROY/tree/master/demo)
+En esta demo, usamos una API llamada `https://exchangerate.host/`, la cual gratuitamente proporciona información histórica sobre las divisas en el tiempo.
 
-Al acceder, observarás que resolvemos un problema similiar al de este proyecto.
+La idea es que revises la aplicación y sea una actividad de inspiración sobre qué aplicación quisieras crear tú desde el lado del Frontend, usando APIs.
 
-Lee con calma el contenido y la solución de la demo, para que puedas enfrentarte de una mejor manera a este proyecto.
-
+![](./images/react-data-tables.gif)
 
 ****
 
