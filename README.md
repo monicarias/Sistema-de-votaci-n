@@ -99,28 +99,4 @@ Usa esta lista para saber los requisitos mínimos del proyecto:
 ### CONTROL DE VERSIONES
 - [ ] Crear un repositorio en GitHub y subir el proyecto al mismo.
 
-### ENTREGA A TIEMPO
-- [ ] Entregar a tiempo el proyecto.
 
-****
-
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA                                                  | % DEL TOTAL |
-| ----------------------------------------------------- |:-----------:|
-| Implementación de operaciones aritméticas y operadores de comparación | 10% |
-| Implementación de control de flujo: condiciones y bucles | 20% |
-| Manipulación de estructuras de datos (objetos y arrays) | 20% |
-| Implementación correcta de cada funcionalidad descrita | 30% |
-| Uso de Git y GitHub en el proyecto | 15% |
-| Entrega a tiempo | 5% |
-
-## 7. Entregas
-
-Crea un repositorio en GitHub para este proyecto y añade un archivo de JavaScript que resuelva el problema propuesto. Al finalizar, comparte el enlace al repositorio con los instructores para su revisión.
-
-**Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
-
-**Cumple con los requisitos y entregables.** Debes verificar que cumplas con todo lo que listamos en esta sección y tomes en cuenta el tiempo establecido para ello, ya que de esto depende que obtengas tu insignia.
